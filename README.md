@@ -1,5 +1,5 @@
-# CV-Template
-
+# CV-Template 
+This CV has been made using Quarto which enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.
 This repository contains the a dummy CV of Wajid iqbal, created using Quarto. The CV is available in html.
 
 ## Project Structure
